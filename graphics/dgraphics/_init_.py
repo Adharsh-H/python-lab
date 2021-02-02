@@ -1,0 +1,1 @@
+_All_=['area','perimeter']
